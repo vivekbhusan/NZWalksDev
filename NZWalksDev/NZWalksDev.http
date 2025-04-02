@@ -1,0 +1,6 @@
+@NZWalksDev_HostAddress = http://localhost:5081
+
+GET {{NZWalksDev_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
